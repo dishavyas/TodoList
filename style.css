@@ -1,0 +1,98 @@
+*{
+    margin: 1px;
+    padding: 0%;
+    background-color:bisque
+}
+button{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    background-color: rgb(172, 106, 235);
+    color:black;
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+    background-color: cadetblue;
+    color: brown;
+
+}
+.form-group{
+    text-align: center;
+    color:darkgreen;
+}
+
+
+
+#Title{
+    font:sans-serif;
+}
+
+.form-group{
+    font-size: 2.5em;
+}
+#titleHelp{
+    font-size: x-large;
+    font-style: italic;
+    color:crimson
+    
+
+}
+.table{
+    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#add1{
+    font-size: medium;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background-color:blue;
+    color: white;
+
+}
+#clear{
+    font-size: medium;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background-color:blue;
+    color: white;
+
+}
+table, th, td{
+    border: 1px solid;
+    font-size: 1em;
+}
+th, td{
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+tr:hover{
+    background-color: coral;
+}
+tr:nth-child(even){
+    background-color: gainsboro
+}
+th{
+    background-color:gray;
+    color:black;
+    font-size: 2em;
+}
+
+h2{
+    font-size: 2em;
+    text-align: center;
+    background-color:olive;
+    color: aquamarine;
+
+}
+
+#lable2{
+    font-size: 2em;
+}
